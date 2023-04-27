@@ -1,0 +1,6 @@
+{
+    "name": "duvorynn/parcijalni-ispit",
+    "require": {
+        "masterminds/html5": "^2.3"
+    }
+}
